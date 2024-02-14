@@ -9,7 +9,12 @@ I began by moving the dataset into a CSV file and uploading it into BigQuery. Fr
 <img src="Images/Preview.png?raw=true"/>
 
 
-I made a list of questions for myself to try and answer:
-* What are the top 10 best selling video games?
-* What are the top 10 best selling PC video games?
-* Does Blizzard Entertainment have any games in the top 100 best selling list?
+I made a list of questions for myself to try and answer. Below I include these questions and show the SQL queries I used to answer them.
+
+# What are the top 10 best selling video games?
+<img src="Images/top_10.png?raw=true"/>
+
+# What are the top 10 best selling PC video games?
+
+
+# Does Blizzard Entertainment have any games in the top 100 best selling list?
