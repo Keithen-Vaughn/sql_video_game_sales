@@ -1,6 +1,6 @@
 # sql_video_game_sales
 
-This is a project using SQL and Tableau to show insights into Video Game Sales data, and then visualize it.
+This is a project using SQL to show insights into Video Game Sales data.
 Dataset was created by Jason Holm from Kaggle: https://www.kaggle.com/datasets/holmjason2/videogamedata/data
 
 I began by moving the dataset into a CSV file and uploading it into BigQuery. From here I viewed the schema and looked at a preview of the table.
@@ -28,4 +28,4 @@ I made a list of questions for myself to try and answer. Below I include these q
 ### What years with at least 20 games released had the best average critic score? Do the average user scores match this ranking?
 <img src="Images/avg_critic_user.png?raw=true"/>
 
-## I will be adding a link for my tableau of this data.
+
