@@ -28,4 +28,7 @@ I made a list of questions for myself to try and answer. Below I include these q
 ### What years with at least 20 games released had the best average critic score? Do the average user scores match this ranking?
 <img src="Images/avg_critic_user.png?raw=true"/>
 
+### Are video games getting worse over the years? (Visualization from Tableau)
+<img src="Images/vg_dashboard.png?raw=true"/>
+
 
